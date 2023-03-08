@@ -1,7 +1,4 @@
 %% File: extractCyclogramsSSD
-% Author: cmey
-% Date: 15.01.2020
-% Matlab Version: 2019b
 % Description: Function which calculates SSD values for each step in a
 %              single trial.
 %
@@ -20,7 +17,7 @@
 %
 
 %% ------------------- BEGIN CODE -------------------
-% Created 21.July.16 in Zürich, Switzerland
+% Created 21.July.16 in ZÃ¼rich, Switzerland
 % Dependencies: Matlab R2015b and BTK Toolkit 0.3.0 Matlab wrapper
 % Author: Christian Kopp
 %
