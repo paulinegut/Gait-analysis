@@ -1,7 +1,4 @@
 %% File: linNormEvts
-% Author: mb
-% Date: 20190830
-% Matlab Version: 2019a
 % Description: Change events into interpolated frames of the normalized step
 %
 % Usage: Executed from segmentSteps function
