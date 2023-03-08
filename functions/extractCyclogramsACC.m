@@ -1,7 +1,4 @@
 %% File: extractCyclogramsACC
-% Author: cmey
-% Date: 15.01.2020
-% Matlab Version: 2019b
 % Description: Function which calculates ACC values over all steps in a
 %              single trial.
 %
