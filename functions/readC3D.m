@@ -1,7 +1,4 @@
 %% File: readC3D
-% Author: ces
-% Date: before 2019
-% Matlab Version: 2019b
 % Description: Function which extracts basic c3d data from biomechanical 
 %              trials into a MATLAB structure. Additionally, splits 
 %              continuous data into left and right gait cycles if gait 
