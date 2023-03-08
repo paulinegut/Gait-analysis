@@ -1,5 +1,5 @@
 %% ########################################################################
-% specTra poject
+% 
 % Extraction of deficits
 %
 % Version 14. January 2021
