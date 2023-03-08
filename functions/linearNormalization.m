@@ -1,7 +1,4 @@
 %% File: linearNormalization
-% Author: mb
-% Date: before 2018
-% Matlab Version: 2019a
 % Description: Function which linearly normalizes the provided signal to 
 %              the fixed number of data points specified.
 %
