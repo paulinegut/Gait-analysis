@@ -1,5 +1,5 @@
 %% ########################################################################
-% specTra poject
+% 
 % Plot angles of all gait cycles
 %
 % Version 18. March 2021
