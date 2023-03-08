@@ -10,6 +10,6 @@ All patients underwent 3D motion analysis where they walked for 30 seconds on a 
 
 In order to characterise which gait parameters are the most important in the 6MWT outcome, a prediction analysis was be conducted. The analysis was performed in Python 3 (Python Software Foundation. Python Language Reference, version 3.8. Available at http://www.python.org). Using the python package scikit-learn, supervised machine learning, more specifically linear regression and classification, such as logistic regression and support vector machine (SVM), were implemented. In order to identify how many classes are necessary for the prediction of the 6MWT with SVM, k-nearest neighbours (kNN) was used. In addition, feature selection, more specifically sequential feature selection using the python packages sklearn and mlxtend, was implemented to find the best set of gait parameters predicting the 6MWT. Finally, an evaluation of the predictions of each algorithm was analysed in terms of mean absolute errors (MAE) for regression and confusion matrix for classification.
 
-** MATLAB**
+**MATLAB**
 
 MATLAB functions to extract different gait parameters can be found here.
