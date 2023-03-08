@@ -1,7 +1,4 @@
 %% File: extractJointAngles
-% Author: cmey
-% Date: 10.10.2019
-% Matlab Version: 2019b
 % Description: Function which calculates lower limb joint angles for single
 %              left and right gait cycles based on simple vector geometry.
 %
