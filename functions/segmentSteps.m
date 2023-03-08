@@ -1,7 +1,4 @@
 %% File: segmentSteps
-% Author: ces
-% Date: before 2019
-% Matlab Version: 2019a
 % Description: Function which accepts data from a measurement trial stored
 %              in the provided MATLAB structure and adds segmented and
 %              normalized gait cycle data to the structure under a label
