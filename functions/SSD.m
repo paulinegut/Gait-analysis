@@ -1,7 +1,5 @@
 %
-% Created 21.July.16 in Zürich, Switzerland
-% Dependencies: Matlab R2015b and BTK Toolkit 0.3.0 Matlab wrapper
-% Author: Christian Kopp
+% 
 %
 % This function calculates the sum of squared distances between a shape 
 % defined by two vectors and a comparison shape, also defined by two 
